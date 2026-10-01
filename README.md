@@ -8,9 +8,14 @@ I build practical software projects with Python, C#, Unity and web technologies,
 
 Python · C# · Unity · JavaScript · HTML · CSS · Google Apps Script
 
-## Featured project
+## Featured Projects
 
-[Random Events Site](https://github.com/ZenTarko/random-events-site) — a responsive event catalogue prototype with JavaScript category filters. Booking and backend integration are planned, not implemented.
+- [Castle of Sin](https://github.com/ZenTarko/castle-of-sin-showcase) — Unity and C# game prototype with movement, inventory, interactions and combat foundations.
+- [Telegram Service Bot](https://github.com/ZenTarko/telegram-service-bot-showcase) — Python request-flow bot with Google Apps Script HTTP integration.
+- [Multilingual Commerce Site](https://github.com/ZenTarko/multilingual-commerce-site-showcase) — HTML/CSS/JavaScript catalogue and persistent cart prototype in three languages.
+- [Random Events Site](https://github.com/ZenTarko/random-events-site) — responsive event catalogue with JavaScript filters; booking/backend features are planned.
+
+The first three links are portfolio presentations; their source repositories are private. Individual review access may be provided upon request.
 
 ## Current focus
 
